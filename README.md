@@ -9,6 +9,6 @@ Trata-se de uma agenda online, com uma interface simples e limpa. Claro e objeti
 
 [Robson Costa](https://github.com/RobsonCostaRbn)
 
-[Vinicíus Brandão](https://github.com/ViniciusBrandao2)
-
 [Tiago Araujo](https://github.com/tiagoarasi)
+
+[Renann Santos](https://github.com/Renann1)
