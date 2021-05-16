@@ -11,4 +11,4 @@ Trata-se de uma agenda online, com uma interface simples e limpa. Claro e objeti
 
 [Vinicíus Brandão](https://github.com/ViniciusBrandao2)
 
-
+[Tiago Araujo](https://github.com/tiagoarasi)
