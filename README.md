@@ -7,6 +7,8 @@ Trata-se de uma agenda online, com uma interface simples e limpa. Claro e objeti
 
 [Ed Wander](https://github.com/Edy940)
 
+[Renann Santos](https://github.com/Renann1)
+
 [Robson Costa](https://github.com/RobsonCostaRbn)
 
 [Tiago Araujo](https://github.com/tiagoarasi)
